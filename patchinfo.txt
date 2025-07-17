@@ -1,8 +1,8 @@
-DataTable\Character.edf abb1fe288514a2695f0e80f884f43e184226dd69
+DataTable\Character.edf c9e8285085b7e4de4e8d705d1b7eb055d134c3f0
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
-DataTable\en-ph\NDCharacter.edf 5687f8c270e74eded87d5dab2834f99f0de7252f
+DataTable\en-ph\NDCharacter.edf a5acc6770665094126c038a87341858d7ef16681
 DataTable\en-ph\NDEventShip.edf 59424447b5c6c932b68c40aba4b807066d72f5ce
-DataTable\en-ph\NDItem.edf a4d952c6f666f613a60ca74649bb1705657e1ecb
+DataTable\en-ph\NDItem.edf e6cfebf14c80b16df46b43d07ab3004d259fe49a
 DataTable\en-ph\NDItemCash.edf 1bc75d7e30f291b00a5e183089b25c1031435ac8
 DataTable\en-ph\NDLanguage.edf b95f506b4642e9d858b55e83e863608e750c71cf
 DataTable\en-ph\NDMap.edf 7896d2de7933d7b7a84b926b288cf96224d3c2a5
@@ -10,10 +10,10 @@ DataTable\en-ph\NDMsgEvent.edf f4d9a3e07d7e6c4f1716c18d3cb32f69991eeb09
 DataTable\en-ph\NDMsgMonster.edf 25e66cb3480a40cc6dd82468b960f0ff3943e1ed
 DataTable\en-ph\NDQuest.edf 05e654939c35cbf002ae8a45f30e2f08d09e1841
 DataTable\en-ph\NDSkillForce.edf 0699771018982221a892d1c5717290a07464dadd
-DataTable\en-ph\NDStore.edf 1f45f856cbf0772e77a9788a0b2024bc95d5d38e
+DataTable\en-ph\NDStore.edf 49bc19827a63759eb0619b84ad4dcf4cdd2eda3b
 DataTable\en-ph\ui.lang 30d3a3bd443bf3271b5dc9923eb38d9268e7bb5b
 DataTable\EventShip.edf e47049a92e2699c1c4484ebc9198230d0e092701
-DataTable\Item.edf d4e87ff6a20e606acb5faf72414146cc8f213d25
+DataTable\Item.edf a789c95a4ed5a797e9bc507d9bc87883e7cbf040
 DataTable\ItemCash.edf 5a4901dd3cee04fc7f6fc10434a19e3543ce0ac4
 DataTable\ItemCombine.edf 1326727ef77edca50cce8ac93414a8f7d2b18e8d
 DataTable\ItemPremium.edf 10f0742209e52baddd07e722d9eb99192b248f4e
@@ -26,4 +26,4 @@ DataTable\PlayerCharacter.edf decbc880ec5a3c0110c31013e297efed1768c2dd
 DataTable\Quest.edf 4b74913f363e5081a917e916b33ae9e6f3cbcd7c
 DataTable\Resource.edf ad2c144387eabb766385ac69a6d9eabef7f82197
 DataTable\SkillForce.edf bdb6e1218cc3e22a9ca450e4836f3fed4b75f32b
-DataTable\Store.edf 27e43f2ad10e877b2abb0cf0e09e26fb33dc0370
+DataTable\Store.edf 87be840735aeff52b49da4b5849f5c188d1b4aab
