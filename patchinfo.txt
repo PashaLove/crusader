@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ABuse.dll 070b2fbcba28cc9a4b42590184c11c0ff00aa50c
 Adv.dll b26a6c6ab3c37d5c7f0ef167923b8e08b4d4ec7b
 d3d9.dll 80510f04b57d996445dc7929226edb9c2752a08d
@@ -51,3 +52,34 @@ SpriteImage\en-ph\item.spr c385fa6cd16842395235bd3daf59d35a1fcd6dab
 SpriteImage\item.spr c385fa6cd16842395235bd3daf59d35a1fcd6dab
 StringLoaderA.dll 6ea7ff394651cc2f54bcd544678c2cc6ffc0d6e0
 zip.dll 783075cad3fd0c0a07563dd577019ffbbce65068
+=======
+DataTable\Character.edf d1e27cf727315e514fb3faee51278df5adb27616
+DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
+DataTable\en-ph\NDCharacter.edf 6f43a19854994792778e515f3dda6cdc55d4f28b
+DataTable\en-ph\NDEventShip.edf 59424447b5c6c932b68c40aba4b807066d72f5ce
+DataTable\en-ph\NDItem.edf de168f2aa558c7bb7f55a3b586c6a783e630cfed
+DataTable\en-ph\NDItemCash.edf c50725a1008d49911db8bc7bd7282fd42f4b5ce6
+DataTable\en-ph\NDLanguage.edf b95f506b4642e9d858b55e83e863608e750c71cf
+DataTable\en-ph\NDMap.edf 7896d2de7933d7b7a84b926b288cf96224d3c2a5
+DataTable\en-ph\NDMsgEvent.edf f4d9a3e07d7e6c4f1716c18d3cb32f69991eeb09
+DataTable\en-ph\NDMsgMonster.edf 25e66cb3480a40cc6dd82468b960f0ff3943e1ed
+DataTable\en-ph\NDQuest.edf 05e654939c35cbf002ae8a45f30e2f08d09e1841
+DataTable\en-ph\NDSkillForce.edf 0699771018982221a892d1c5717290a07464dadd
+DataTable\en-ph\NDStore.edf faf0e998b5197ba22b769ebf44b2f2d7ad9cfac4
+DataTable\en-ph\ui.lang 30d3a3bd443bf3271b5dc9923eb38d9268e7bb5b
+DataTable\EventShip.edf e47049a92e2699c1c4484ebc9198230d0e092701
+DataTable\Item.edf c745c4c3ba263e155cc15403908e92ce1c3d199b
+DataTable\ItemCash.edf 518c809cc36b82dc728161eba5223d7f02d7f40f
+DataTable\ItemCombine.edf 1326727ef77edca50cce8ac93414a8f7d2b18e8d
+DataTable\ItemPremium.edf 10f0742209e52baddd07e722d9eb99192b248f4e
+DataTable\ItemSetEffect.edf 38d20c556cdba36a1fa99029f248016bd1eee95a
+DataTable\ItemTimer.edf 134674fc04029e8f9cef590e96145cdd1f12fff5
+DataTable\Map.edf 4f1191571fd6b6e35900f218944e1d85bb09cb51
+DataTable\mapdata.dat b72f68032d40330771eb37bf1eaeb3ebdde9215f
+DataTable\MsgEvent.edf 54b24935f2b90a210a634509167390e14371fb7e
+DataTable\PlayerCharacter.edf decbc880ec5a3c0110c31013e297efed1768c2dd
+DataTable\Quest.edf 4b74913f363e5081a917e916b33ae9e6f3cbcd7c
+DataTable\Resource.edf ad2c144387eabb766385ac69a6d9eabef7f82197
+DataTable\SkillForce.edf bdb6e1218cc3e22a9ca450e4836f3fed4b75f32b
+DataTable\Store.edf 02cb8d9121b8c10594171b531e6d5b2bb6433775
+>>>>>>> parent of 5cce616 (Patch Log v1.1)
