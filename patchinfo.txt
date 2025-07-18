@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ABuse.dll 070b2fbcba28cc9a4b42590184c11c0ff00aa50c
 Adv.dll b26a6c6ab3c37d5c7f0ef167923b8e08b4d4ec7b
 d3d9.dll 80510f04b57d996445dc7929226edb9c2752a08d
@@ -7,9 +6,6 @@ d3dx9_32.dll b62aed3f71d8963227e5021c2222192873ce753b
 d3dx9_34.dll 0c388397620ce0edbb362bb3ab2d4a9f31a56b6d
 d3dx9_36.dll e2aeb78330d0815cffedfe88438a71024577d4b6
 DataTable\Character.edf 0d386a681db92053e6ee871c5147137591404452
-=======
-DataTable\Character.edf 7fdcf53d51301e76e5868109171a4e365aed7f39
->>>>>>> parent of 02b21a8 (Patch Log v1.5)
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\NDCharacter.edf a8c7a14042e96aa7fea587004cfccaf5ae405e31
 DataTable\en-ph\NDEventShip.edf 1c8d1b610331fa0e41f4056f8b36de998dff70a7
@@ -32,7 +28,6 @@ DataTable\ItemSetEffect.edf 4393f0133dfeba341592f0e551aaa4b83b01934b
 DataTable\ItemTimer.edf c4d3480f426e9daa3300a10c83784e0014f42df2
 DataTable\Map.edf a0d98b43b3bea3bd0221245dd9f78674ca28ca45
 DataTable\mapdata.dat b72f68032d40330771eb37bf1eaeb3ebdde9215f
-<<<<<<< HEAD
 DataTable\MsgEvent.edf 1191db1d2c1e598d38a4814e817e44b69654388d
 DataTable\PlayerCharacter.edf a45f51bc3ced38e279f919f0b67524dfdd5ddf88
 DataTable\Quest.edf dee7f4c8a4d9061e2158aa3c1b0d75772aae050c
@@ -40,14 +35,6 @@ DataTable\Resource.edf bcb22a23caeed65f6bfc28d36c108c5a60a47c1b
 DataTable\SkillForce.edf 01381aefafbb304e55a8ffdfc34456b0676391d0
 DataTable\Store.edf dbc41d37f50f09cde98d7794430407a76632bee9
 dbghelp.dll f456904ad49e4a6cb8e60d2998ba167b115ac8a1
-=======
-DataTable\MsgEvent.edf 54b24935f2b90a210a634509167390e14371fb7e
-DataTable\PlayerCharacter.edf decbc880ec5a3c0110c31013e297efed1768c2dd
-DataTable\Quest.edf 4b74913f363e5081a917e916b33ae9e6f3cbcd7c
-DataTable\Resource.edf ad2c144387eabb766385ac69a6d9eabef7f82197
-DataTable\SkillForce.edf 8a407ead33d126d60893a6f0251823fa5bf978f3
-DataTable\Store.edf 8212f6f7258462cc5e09d17441ebf3def5068159
->>>>>>> parent of 02b21a8 (Patch Log v1.5)
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 DownEngineSDK.dll 5870d3275590c2807b038cece238a6fdc088d3a6
 lc.cfg 13d1473aff3e69dd799ce40064ee0b0c8d7d8fb8
