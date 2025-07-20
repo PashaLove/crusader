@@ -1,10 +1,10 @@
 d3d9.dll 03fbe708f8f15b8dbba63515ba5b636579d41e14
-DataTable\Character.edf ab6026f634951379cf7e4e90389bc73f87638dc9
+DataTable\Character.edf ff45dd8fc90e2bb9d27dc3a836084d0a529d94a1
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\NDCharacter.edf 6f2ca21ba6f813f61afe1f7c87e803ab9557e73f
 DataTable\en-ph\NDEventShip.edf 1c8d1b610331fa0e41f4056f8b36de998dff70a7
-DataTable\en-ph\NDItem.edf de21058dc4426848154756382b565f913b1ac450
-DataTable\en-ph\NDItemCash.edf 73f9c632a0bb9617c05f1adad43220f14b594897
+DataTable\en-ph\NDItem.edf 6736d6621c7751d1e7f0f3d70b5251be78a9e5d7
+DataTable\en-ph\NDItemCash.edf fde0d5dfc0ea80b2c5613a22881695d9ee0f1b47
 DataTable\en-ph\NDLanguage.edf 7b8581e80ced0b31604d9acc020aa777337c7029
 DataTable\en-ph\NDMap.edf d53a60a6e1cce5204a24d544c2984fdeece038eb
 DataTable\en-ph\NDMsgEvent.edf 4cf56c78786175a7ac8db72e4277860684bbef28
@@ -14,8 +14,8 @@ DataTable\en-ph\NDSkillForce.edf ae3b3556304466fea4c2642c5d2f03505f865252
 DataTable\en-ph\NDStore.edf 39c271f8d2a55477e73049e3370aa695467db09a
 DataTable\en-ph\ui.lang 30d3a3bd443bf3271b5dc9923eb38d9268e7bb5b
 DataTable\EventShip.edf ef589e415810f3ccf04f5d6038f6529be64ab429
-DataTable\Item.edf d9d944a36e69b242c3830f72be4d3970a11b2a2c
-DataTable\ItemCash.edf 41e465d9d22e4e2bb4957533f6af948d5c3241a9
+DataTable\Item.edf 1652822e8c7187fdfcdbe4635eadff5f53a2336b
+DataTable\ItemCash.edf 770ba9bdecc09206bbf03e27aa4df2c2c5ee9951
 DataTable\ItemCombine.edf 16fd5d93c0af0d23d1ed7f135455148488b506e7
 DataTable\ItemPremium.edf caf60ead1faac8041e12f169df7a145911a896f5
 DataTable\ItemSetEffect.edf 8d42ab81da0aedbb453a89ebc8cbe4bed2943eb5
@@ -31,6 +31,6 @@ DataTable\Store.edf 68bfb51b705e789ba10ae698e299241dc45048b0
 lc.cfg 13d1473aff3e69dd799ce40064ee0b0c8d7d8fb8
 RF_Online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll e2e9b7131172860d953b61b0fdf72023d3f08949
-SpriteImage\en-ph\item.spr 067ba193f4e1ee6e42dc3fe7532d3a7bfc97b4ef
-SpriteImage\item.spr 067ba193f4e1ee6e42dc3fe7532d3a7bfc97b4ef
+SpriteImage\en-ph\item.spr 00710a1fdf6d553866fff5e754b04454545a75d5
+SpriteImage\item.spr 00710a1fdf6d553866fff5e754b04454545a75d5
 zip.dll 783075cad3fd0c0a07563dd577019ffbbce65068
