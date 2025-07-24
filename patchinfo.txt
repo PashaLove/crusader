@@ -31,3 +31,5 @@ DataTable\Store.edf a09e253360b5a4c05d0d869f76fbd16c5482cc68
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 rf_online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll e2e9b7131172860d953b61b0fdf72023d3f08949
+SpriteImage\en-ph\item.spr 00710a1fdf6d553866fff5e754b04454545a75d5
+SpriteImage\item.spr 00710a1fdf6d553866fff5e754b04454545a75d5
