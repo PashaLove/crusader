@@ -1,7 +1,7 @@
 d3d9.dll 80510f04b57d996445dc7929226edb9c2752a08d
-DataTable\Character.edf 5d2f4d23656ebd2c921921db88fec28c779752de
+DataTable\Character.edf 211de2b6c67af0af6956588f5309f895ed7af78b
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
-DataTable\en-ph\NDCharacter.edf 3196bb37e8057139914cc638fc8482e5fc24a590
+DataTable\en-ph\NDCharacter.edf bd831fa0ee83523ddfb80fbab5d8c3c5850093c5
 DataTable\en-ph\NDEventShip.edf 1c8d1b610331fa0e41f4056f8b36de998dff70a7
 DataTable\en-ph\NDItem.edf a37dfdf8e188711cc30fb27ad0a3eacd5300afe3
 DataTable\en-ph\NDItemCash.edf 897561d8f845a38e37492fcdaca5b1f17e077230
