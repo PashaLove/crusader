@@ -1,4 +1,4 @@
-d3d9.dll 80510f04b57d996445dc7929226edb9c2752a08d
+d3d9.dll 501302cd386ec7e741b78feef1036805b33e5167
 DataTable\Character.edf 211de2b6c67af0af6956588f5309f895ed7af78b
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\NDCharacter.edf bd831fa0ee83523ddfb80fbab5d8c3c5850093c5
@@ -30,7 +30,7 @@ DataTable\SkillForce.edf 094bdd906f83d9cc8e2a50cf5097c82d70b23ab7
 DataTable\Store.edf 694e94389df8490bb532aedb72326cc1e0b6e0cf
 lc.cfg 13d1473aff3e69dd799ce40064ee0b0c8d7d8fb8
 New.exe 9d0eb1c78c1bcd3138fe1073fa0117e28acbb8c9
-RF_Online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
+RF_Online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
 sirin-launcher.dll e2e9b7131172860d953b61b0fdf72023d3f08949
 SpriteImage\en-ph\item.spr 00710a1fdf6d553866fff5e754b04454545a75d5
 SpriteImage\item.spr 00710a1fdf6d553866fff5e754b04454545a75d5
