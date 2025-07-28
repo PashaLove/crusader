@@ -31,7 +31,6 @@ DataTable\Store.edf 694e94389df8490bb532aedb72326cc1e0b6e0cf
 discord_game_sdk.dll 63b2383c12013dcd7bbee08a7f965148c14d9c9d
 lc.cfg 13d1473aff3e69dd799ce40064ee0b0c8d7d8fb8
 New.exe 9d0eb1c78c1bcd3138fe1073fa0117e28acbb8c9
-RF Crusader.exe 935ab6cc4acf25637d19e556b47b36f1e74e82ff
 RF_Online.bin 37d2f69e4db75ce53b68fe707f25128e4c80c7e8
 sirin-launcher.dll e2e9b7131172860d953b61b0fdf72023d3f08949
 SpriteImage\en-ph\item.spr 00710a1fdf6d553866fff5e754b04454545a75d5
