@@ -4,7 +4,7 @@ DataTable\Character.edf 1dea0c5ad8a981f0e54d17a3d6e93a47ea6afd4a
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\NDCharacter.edf b2176ca148725675e744c84c58203aeb96ed7c87
 DataTable\en-ph\NDEventShip.edf 1c8d1b610331fa0e41f4056f8b36de998dff70a7
-DataTable\en-ph\NDItem.edf bfabbd322f925aef30479f5df2049b101cccdfe6
+DataTable\en-ph\NDItem.edf 611c72679a1545138989592600892494f5a7f42c
 DataTable\en-ph\NDItemCash.edf f93600187d35a22b14423c68cfe09e41dab016ce
 DataTable\en-ph\NDLanguage.edf 7b8581e80ced0b31604d9acc020aa777337c7029
 DataTable\en-ph\NDMap.edf 0e395c33288e0c68f417087c9bce4a3a23d837e2
@@ -12,10 +12,10 @@ DataTable\en-ph\NDMsgEvent.edf 4cf56c78786175a7ac8db72e4277860684bbef28
 DataTable\en-ph\NDMsgMonster.edf 421eb6ceedb1087311710c465f2d38e698745345
 DataTable\en-ph\NDQuest.edf 2fe6d03e96cda9c4581515d6355c70cb11615ce0
 DataTable\en-ph\NDSkillForce.edf 33b78d091fc11b69338ab95597b121392f229ada
-DataTable\en-ph\NDStore.edf 1d346b72b43cd6e553ec33459bdac2c35d132457
+DataTable\en-ph\NDStore.edf 3e1f1c07970926413f0f695bbcc8f85c357aba42
 DataTable\en-ph\ui.lang 30d3a3bd443bf3271b5dc9923eb38d9268e7bb5b
 DataTable\EventShip.edf ef589e415810f3ccf04f5d6038f6529be64ab429
-DataTable\Item.edf 6d241ed11ed496cdce47f8e922a004909834a518
+DataTable\Item.edf e25a8e7577d398629476c24bfc482186dc8ee9d3
 DataTable\ItemCash.edf cf30129c90912121319bebc4d0612445f26a2a18
 DataTable\ItemCombine.edf c031fe3e5a6082ce1b79eb680412e3e0c30a6600
 DataTable\ItemPremium.edf caf60ead1faac8041e12f169df7a145911a896f5
@@ -28,7 +28,7 @@ DataTable\PlayerCharacter.edf a45f51bc3ced38e279f919f0b67524dfdd5ddf88
 DataTable\Quest.edf 416004dd894c976a07c045c60b714acb64ef71a8
 DataTable\Resource.edf bcb22a23caeed65f6bfc28d36c108c5a60a47c1b
 DataTable\SkillForce.edf 8c3d126e591ce66e18880a0bf03f34601eb5db7b
-DataTable\Store.edf 7b14b0535f0540fb1fe05a650bafd24aebca887b
+DataTable\Store.edf da8f281338f74f8b4cc7ef7caa00a464d0a28572
 lc.cfg 13d1473aff3e69dd799ce40064ee0b0c8d7d8fb8
 RF_Online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll e2e9b7131172860d953b61b0fdf72023d3f08949
