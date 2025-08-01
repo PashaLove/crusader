@@ -4,7 +4,7 @@ DataTable\Character.edf 7971ad1a0df7e52b64abb1b3b72b6ace504fbf39
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\en-ph\NDCharacter.edf 003c2984230eb770713d76691ca99316069384c5
 DataTable\en-ph\NDEventShip.edf 1c8d1b610331fa0e41f4056f8b36de998dff70a7
-DataTable\en-ph\NDItem.edf 40661d8515495dbd353053399acb03ca176b8e31
+DataTable\en-ph\NDItem.edf 01d087f4fa271bdfd8c569f3896d3eb28edfdd6e
 DataTable\en-ph\NDItemCash.edf bce3624b5a3ec9b91225764c229afbed41c85137
 DataTable\en-ph\NDLanguage.edf 7b8581e80ced0b31604d9acc020aa777337c7029
 DataTable\en-ph\NDMap.edf 0e395c33288e0c68f417087c9bce4a3a23d837e2
@@ -15,9 +15,9 @@ DataTable\en-ph\NDSkillForce.edf 48156c54df3dcd627c233a533c580e340991a3aa
 DataTable\en-ph\NDStore.edf a142b9f04bb8659cdb6f41bd89824c08e01c0927
 DataTable\en-ph\ui.lang 30d3a3bd443bf3271b5dc9923eb38d9268e7bb5b
 DataTable\EventShip.edf ef589e415810f3ccf04f5d6038f6529be64ab429
-DataTable\Item.edf 37f565f6a817171e21d7095c070289c85ca1e541
+DataTable\Item.edf e1fbfee4d4485b226491ec6358142dcd25a83d18
 DataTable\ItemCash.edf 5bed1b8d265a93b7ae30f90861a3a31057f7db55
-DataTable\ItemCombine.edf 47eee114bdd347499320dd711d87c612b09429f7
+DataTable\ItemCombine.edf f1d4a264ca681190e3aa3c35228e84acb2dafd48
 DataTable\ItemPremium.edf caf60ead1faac8041e12f169df7a145911a896f5
 DataTable\ItemSetEffect.edf b011fea315654863193bd8ff985c772e318a6ea1
 DataTable\ItemTimer.edf 781ee327f7b4fb3e91327c6cf549d7f6d5385bc5
@@ -32,7 +32,7 @@ DataTable\Store.edf 1914b8c629d50e6473c05ab97e469a279f5a9190
 lc.cfg 13d1473aff3e69dd799ce40064ee0b0c8d7d8fb8
 RF_Online.bin f5de366011dfa5dc5fce0e2af9ee6a44e085776f
 sirin-launcher.dll e2e9b7131172860d953b61b0fdf72023d3f08949
-SpriteImage\en-ph\item.spr ce43e0fe2df674120e0967d6d8117f7b33742b36
-SpriteImage\item.spr ce43e0fe2df674120e0967d6d8117f7b33742b36
+SpriteImage\en-ph\item.spr 0c37ab3811e3fd2af432c34beb61a0fa19bc833a
+SpriteImage\item.spr 0c37ab3811e3fd2af432c34beb61a0fa19bc833a
 vc_redist.x86.exe ab4a97610b127d68c45311deabfbcd8aa7066f4b
 zip.dll 783075cad3fd0c0a07563dd577019ffbbce65068
